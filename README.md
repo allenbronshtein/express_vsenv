@@ -8,9 +8,11 @@ Just make sure you have npm, and node installed on computer (when installing nod
 Then to download nestjs and expressjs modules run:
 
 nestjs: npm i -g @nestjs/cli
+
 check if installed: nest -v
 
 expressjs: npm install express --save
+
 check if installed: npm list express
 
 Feel free to contact me if any problems pop up
