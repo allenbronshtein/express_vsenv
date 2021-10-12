@@ -1,2 +1,2 @@
-# node_express_nest_vsenv
-Runtime env for node.js express.js and nest.js for vscode 
+# node-express-nest-runtime
+Runtime vscode env for node express and nest js

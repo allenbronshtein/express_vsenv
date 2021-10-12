@@ -1,0 +1,7 @@
+npm init
+npm install express
+
+tsc.cmd --outDir ./out app.ts <--- Lets you compile .ts files
+npm install --save-dev lite-server <--- Install automated server
+npm install --save-dev ts-node tsconfig-paths <--- vscode debugger for ts
+npm start <--- Start debug server
